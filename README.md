@@ -15,8 +15,7 @@ $ make
 $ sudo make install     
 
 2 iyerilog on Ubuntu:
-verilog Steps to install iverilog
- sudo apt-get update 
+sudo apt-get update 
 sudo apt-get install iverilog
 
 3.gtkwave on Uuntu
